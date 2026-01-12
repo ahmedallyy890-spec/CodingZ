@@ -135,6 +135,7 @@ nav ul a:hover {
     margin-top: 50px;
     color: white;
     transition: 0.6s ease;
+    margin-right: 10px;
 }
 .features .features-card:hover {
     transform: translateY(-20px) scale(1.03);
@@ -207,6 +208,7 @@ nav ul a:hover {
     height: 230px;
     transition: 0.6s ease;
     border: 1px rgb(33, 33, 33) solid;
+    margin-right: 15px;
 }
 .courses .courses-box .course:hover {
     background-color: rgb(224, 223, 223);
@@ -259,4 +261,5 @@ nav ul a:hover {
 .contact img:hover {
     transform: rotate(25deg) scale(1.2);
     opacity: 80%;
+
 }
